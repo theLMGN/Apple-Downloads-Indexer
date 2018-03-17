@@ -1,0 +1,127 @@
+[
+    {
+        "title": "Download iTunes 12.7.3",
+        "description": "iTunes is now designed to work with HomePod.",
+        "thumbnail": "/kb/image.jsp?productid=PP488",
+        "id": "DL1814",
+        "productname": "PP488",
+        "parent": "",
+        "filesize": "",
+        "lastmodified": "Jan 23, 2018",
+        "url": "/kb/DL1814",
+        "prodName": "iTunes 12 for Mac",
+        "fileurl": "http://www.apple.com/itunes/download/"
+    },
+    {
+        "title": "Download iTunes 12.6.2 for macOS",
+        "description": "This update includes minor app and performance improvements.",
+        "thumbnail": "/kb/image.jsp?productid=PP488",
+        "id": "DL1934",
+        "productname": "PP488",
+        "parent": "",
+        "filesize": "",
+        "lastmodified": "Jul 19, 2017",
+        "url": "/kb/DL1934",
+        "prodName": "iTunes 12 for Mac",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/091-25487-20170801-DE91B534-762D-11E7-9558-75E7484DD6D5/iTunes12.6.2.dmg"
+    },
+    {
+        "title": "Download iTunes 12.4.3 for Windows  (64-bit - for older video cards)",
+        "description": "This iTunes installer is only for Windows 7 and later on 64 bit systems that are unable to support iTunes video playback requirements on older and low end video cards.",
+        "thumbnail": "/kb/image.jsp?productid=PP489",
+        "id": "DL1816",
+        "productname": "PP489",
+        "parent": "",
+        "filesize": "134.7 MB",
+        "lastmodified": "Aug 1, 2016",
+        "url": "/kb/DL1816",
+        "prodName": "iTunes 12 for Windows",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/031-69284-20160802-7E7B2D20-552B-11E6-B2B9-696CECD541CE/iTunes64Setup.exe"
+    },
+    {
+        "title": "Download iTunes 12.4.3 for OS X",
+        "description": "This update resolves an issue where playlist changes made on other devices may not appear in iTunes.",
+        "thumbnail": "/kb/image.jsp?productid=PP488",
+        "id": "DL1892",
+        "productname": "PP488",
+        "parent": "",
+        "filesize": "",
+        "lastmodified": "Aug 1, 2016",
+        "url": "/kb/DL1892",
+        "prodName": "iTunes 12 for Mac",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/031-69280-20160802-E751E1E2-5524-11E6-8829-EB6BECD541CE/iTunes12.4.3.dmg"
+    },
+    {
+        "title": "Download iTunes 12.1.3 for Windows (64-bit)",
+        "description": "This update allows you to sync your iPhone, iPad, or iPod touch with iOS 9 on Windows XP and Windows Vista PCs.",
+        "thumbnail": "/kb/image.jsp?productid=PP489",
+        "id": "DL1615",
+        "productname": "PP489",
+        "parent": "",
+        "filesize": "122.4 MB",
+        "lastmodified": "Sep 16, 2015",
+        "url": "/kb/DL1615",
+        "prodName": "iTunes 12 for Windows",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/031-34005-20150916-98D38F1E-5C11-11E5-A6AD-C05A6DA99CB1/iTunes6464Setup.exe"
+    },
+    {
+        "title": "Download iTunes 12.1.3 for Windows (32 bit)",
+        "description": "This update allows you to sync your iPhone, iPad, or iPod touch with iOS 9 on Windows XP and Windows Vista PCs.",
+        "thumbnail": "/kb/image.jsp?productid=PP489",
+        "id": "DL1614",
+        "productname": "PP489",
+        "parent": "",
+        "filesize": "108.8 MB",
+        "lastmodified": "Sep 16, 2015",
+        "url": "/kb/DL1614",
+        "prodName": "iTunes 12 for Windows",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/031-34002-20150916-98D32A92-5C11-11E5-80AC-C25A6DA99CB1/iTunesSetup.exe"
+    },
+    {
+        "title": "iTunes 12.1.3 for Windows (64-bit — for older video cards)",
+        "description": "This update adds several refinements to the Get Info window and improves overall stability.",
+        "thumbnail": "/kb/image.jsp?productid=PP489",
+        "id": "DL1784",
+        "productname": "PP489",
+        "parent": "",
+        "filesize": "121.3 MB",
+        "lastmodified": "Sep 16, 2015",
+        "url": "/kb/DL1784",
+        "prodName": "iTunes 12 for Windows",
+        "fileurl": "https://secure-appldnld.apple.com/itunes12/031-34004-20150916-98D28FF6-5C11-11E5-8EC6-C15A6DA99CB1/iTunes64Setup.exe"
+    },
+    {
+        "title": "iTunes 11.4 for OS X 10.6",
+        "description": "iTunes 11.4 now supports the ability to sync your favorite music, movies, and more to devices with iOS 8.",
+        "thumbnail": "/kb/image.jsp?productid=PP200",
+        "id": "DL1774",
+        "productname": "PP200",
+        "parent": "",
+        "filesize": "OS X (242.4 MB )",
+        "lastmodified": "Sep 9, 2014",
+        "url": "/kb/DL1774",
+        "prodName": "iTunes 11 for Mac",
+        "fileurl": "https://secure-appldnld.apple.com/iTunes11/031-07683.20140923.rewr3/iTunes11.4.dmg"
+    },
+    {
+        "title": "iPhoto Library Upgrader 1.1",
+        "description": "This tool prepares libraries from iPhoto 7 or earlier so they can be upgraded with the current version of iPhoto.",
+        "thumbnail": "/kb/image.jsp?productid=134391",
+        "id": "DL1523",
+        "productname": "134391",
+        "parent": "",
+        "filesize": "11.28 MB",
+        "lastmodified": "Oct 22, 2013",
+        "url": "/kb/DL1523",
+        "prodName": "iPhoto 9.5",
+        "fileurl": "http://support.apple.com/downloads/DL1523/en_US/iPhotoLibraryUpgrader.dmg"
+    },
+    {
+        "e": "Failed to download page 7",
+        "ed": {}
+    },
+    {
+        "e": "Failed to download page 19",
+        "ed": {}
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "title": "AFP Client Update 1.0",
+        "description": "<p>Improves the reliability of data accessed from an AFP server when using AppleWorks.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL610",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "580KB",
+        "lastmodified": "Feb 9, 2004",
+        "url": "/kb/DL610",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL610/en_US/AFPUpdate.dmg"
+    },
+    {
+        "title": "AppleWorks File Repair Utility 1.0",
+        "description": "<p>Designed to fix AppleWorks documents that have become damaged.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL609",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "436KB",
+        "lastmodified": "Feb 9, 2004",
+        "url": "/kb/DL609",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL609/en_US/AppleWorksFileRepair.dmg"
+    },
+    {
+        "title": "AFP Client Update v1.0: Information and Download",
+        "description": "This document contains information about the AFP Client Update and a link to download it.",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL1214",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "580 KB",
+        "lastmodified": "Feb 9, 2004",
+        "url": "/kb/DL1214",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL1214/en_US/AFPUpdate.dmg"
+    },
+    {
+        "title": "AppleWorks 6.2.2 for Windows",
+        "description": "<p>This free update to AppleWorks 6.1 and later for Windows enhances the reliability of AppleWorks’ spreadsheet environment.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL616",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "5.8MB",
+        "lastmodified": "Jan 20, 2004",
+        "url": "/kb/DL616",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL616/en_US/AppleWorks622Updater.zip"
+    },
+    {
+        "title": "AppleWorks 6.2.9 for Mac",
+        "description": "<p>This update to AppleWorks 6.0 and later supports mice with scroll wheels and improves the performance and reliability.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL617",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "15.8MB",
+        "lastmodified": "Jan 14, 2004",
+        "url": "/kb/DL617",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL617/en_US/AppleWorks6.2.9Updater.smi.bin"
+    },
+    {
+        "title": "AppleWorks 5.0.3 Updater (Macintosh): Document and Software",
+        "description": "This article contains a software link to AppleWorks 5.0.3 Updater (Macintosh).",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL1244",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "5,400 KB",
+        "lastmodified": "Jan 30, 1999",
+        "url": "/kb/DL1244",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL1244/en_US/AppleWorks_5.0.3_Updt.smi.bin"
+    },
+    {
+        "title": "AppleWorks 5.0.3 Updater (Windows): Document and Software",
+        "description": "This article contains a software link to AppleWorks 5.0.3 Update for Windows computers.",
+        "thumbnail": "/kb/image.jsp?productid=PF13",
+        "id": "DL1243",
+        "productname": "PF13",
+        "parent": "",
+        "filesize": "1518 KB",
+        "lastmodified": "Jan 30, 1999",
+        "url": "/kb/DL1243",
+        "prodName": "Productivity Software",
+        "fileurl": "http://support.apple.com/downloads/DL1243/en_US/AW503Updater.zip"
+    }
+]

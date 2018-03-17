@@ -1,0 +1,26 @@
+{
+  "name": "appledownloads",
+  "version": "1.0.0",
+  "description": "Downloads a list of all possible downloads from Apple Support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thelmgn/appledownloads.git"
+  },
+  "keywords": [
+    "apple",
+    "downloads"
+  ],
+  "author": "theLMGN",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thelmgn/appledownloads/issues"
+  },
+  "homepage": "https://github.com/thelmgn/appledownloads#readme",
+  "dependencies": {
+    "snekfetch": "^4.0.0-beta.0"
+  }
+}

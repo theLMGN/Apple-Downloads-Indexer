@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Download Magic Trackpad and Multi-Touch Trackpad Update 1.0",
+        "description": "This update adds support to Mac OS X for the Magic Trackpad and is required for its use.",
+        "thumbnail": "/kb/image.jsp?productid=PP180",
+        "id": "DL1066",
+        "productname": "PP180",
+        "parent": "",
+        "filesize": "75.09 MB",
+        "lastmodified": "Jul 27, 2010",
+        "url": "/kb/DL1066",
+        "prodName": "Magic Trackpad",
+        "fileurl": "http://support.apple.com/downloads/DL1066/en_US/MagicTrackpadMultiTouchUpdate1.0.dmg"
+    },
+    {
+        "title": "Wireless Mouse Software Update 1.0 for Leopard",
+        "description": "Install this software to take advantage of your Magic Mouse special features. Mac OS X 10.5.8 is required before installing this update.",
+        "thumbnail": "/kb/image.jsp?productid=PP128",
+        "id": "DL951",
+        "productname": "PP128",
+        "parent": "",
+        "filesize": "36.22MB",
+        "lastmodified": "Oct 27, 2009",
+        "url": "/kb/DL951",
+        "prodName": "Apple Magic Mouse",
+        "fileurl": "http://support.apple.com/downloads/DL951/en_US/WirelessMouseSoftware.dmg"
+    },
+    {
+        "title": "iSight Updater 1.0.3",
+        "description": "<p>Update features enhanced IIDC compliance, improved auto exposure and auto white balance, and more.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PF8",
+        "id": "DL502",
+        "productname": "PF8",
+        "parent": "",
+        "filesize": "1.1MB",
+        "lastmodified": "Apr 14, 2005",
+        "url": "/kb/DL502",
+        "prodName": "Peripherals",
+        "fileurl": "http://support.apple.com/downloads/DL502/en_US/iSightUpdater103.dmg"
+    },
+    {
+        "title": "NVidia FCode flasher 1.1: Information and Download",
+        "description": "This article contains information about the NVidia FCode flasher and a link to the software download.",
+        "thumbnail": "/kb/image.jsp?productid=PF8",
+        "id": "DL1177",
+        "productname": "PF8",
+        "parent": "",
+        "filesize": "564 KB",
+        "lastmodified": "Mar 9, 2004",
+        "url": "/kb/DL1177",
+        "prodName": "Peripherals",
+        "fileurl": "http://support.apple.com/downloads/DL1177/en_US/NVidiaROMUpdate.dmg"
+    },
+    {
+        "title": "ATI Video Software Update 1.0: Document and Software",
+        "description": "This article contains the About ATI Video Software Update 1.0 document and a link to the ATI Video Software Update 1.0 software.",
+        "thumbnail": "/kb/image.jsp?productid=PF8",
+        "id": "DL1273",
+        "productname": "PF8",
+        "parent": "",
+        "filesize": "1.2 MB",
+        "lastmodified": "Jun 5, 1999",
+        "url": "/kb/DL1273",
+        "prodName": "Peripherals",
+        "fileurl": "http://support.apple.com/downloads/DL1273/en_US/ATI_Video_SW_Update_1.0.smi.bin"
+    }
+]

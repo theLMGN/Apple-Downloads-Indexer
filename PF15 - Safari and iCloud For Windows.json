@@ -1,0 +1,67 @@
+[
+    {
+        "title": "iCloud for Windows",
+        "description": "iCloud for Windows is a downloadable app that gives your PC the power of iCloud.com.",
+        "thumbnail": "/kb/image.jsp?productid=133314",
+        "id": "DL1813",
+        "productname": "133314",
+        "parent": "",
+        "filesize": "125.1 MB",
+        "lastmodified": "Oct 22, 2015",
+        "url": "/kb/DL1813",
+        "prodName": "iCloud",
+        "fileurl": ""
+    },
+    {
+        "title": "iCloud for Windows",
+        "description": "iCloud for Windows is a downloadable app that gives your PC the power of iCloud.com.",
+        "thumbnail": "/kb/image.jsp?productid=133314",
+        "id": "DL1455",
+        "productname": "133314",
+        "parent": "",
+        "filesize": "71.8 MB",
+        "lastmodified": "Apr 30, 2015",
+        "url": "/kb/DL1455",
+        "prodName": "iCloud",
+        "fileurl": ""
+    },
+    {
+        "title": "Safari: Get the Latest Version",
+        "description": "Get the latest version of Safari",
+        "thumbnail": "/kb/image.jsp?productid=PL165",
+        "id": "DL1801",
+        "productname": "PL165",
+        "parent": "",
+        "filesize": "",
+        "lastmodified": "Mar 20, 2015",
+        "url": "/kb/DL1801",
+        "prodName": "Safari",
+        "fileurl": "https://support.apple.com/en-us/HT204416"
+    },
+    {
+        "title": "Safari 5.1.10 for Snow Leopard",
+        "description": "Safari 5.1.10 for OS X Snow Leopard includes security fixes and is recommended for all Snow Leopard users.",
+        "thumbnail": "/kb/image.jsp?productid=PP341",
+        "id": "DL1569",
+        "productname": "PP341",
+        "parent": "",
+        "filesize": "48.40 MB",
+        "lastmodified": "Sep 12, 2013",
+        "url": "/kb/DL1569",
+        "prodName": "Safari 5.1 (Mac OS X 10.6)",
+        "fileurl": "http://support.apple.com/downloads/DL1569/en_US/Safari5.1.10SnowLeopardManual.dmg"
+    },
+    {
+        "title": "Safari 1.2",
+        "description": "<p>Improves compatibility with websites and web applications.</p>",
+        "thumbnail": "/kb/image.jsp?productid=PL165",
+        "id": "DL612",
+        "productname": "PL165",
+        "parent": "",
+        "filesize": "7MB",
+        "lastmodified": "Feb 2, 2004",
+        "url": "/kb/DL612",
+        "prodName": "Safari",
+        "fileurl": "http://support.apple.com/downloads/DL612/en_US/Safari_1.2.dmg"
+    }
+]
